@@ -1,4 +1,4 @@
-# Micael - The Ultimate Web Development Portfolio 
+# Mayank - The Ultimate Web Development Portfolio 
 
 
 ## Introduction
